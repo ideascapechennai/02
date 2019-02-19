@@ -1,0 +1,1460 @@
+{
+  "settings": {
+    "name": "CADD Mech 01-clone",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#ec1a3b",
+        "secondaryColor": "#2969b0",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#cccccc",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Open Sans",
+        "textFont": "Open Sans",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#bfcecb",
+        "#ec1a3b",
+        "#5b5b5b",
+        "#232323",
+        "#e9e9e9",
+        "#282828",
+        "#040918"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.3",
+    "siteFonts": [],
+    "uniqCompNum": 55,
+    "versionPublish": "4.9.3",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-rgb-03-01-128x38.png",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "сanonical-url": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-y\">COURSES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTestimonials1-k\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-h\">APPLY NOW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ec1a3b!important"
+            },
+            "A": {
+              "font-size": "14px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/v5-1-444x111.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-x"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-122021959-2000x2000.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#475577",
+            "overlayOpacity": "0.8"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ff1263ce-3050-48e6-a04a-9126137895a0-large-1024x791.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Bring your product design ideas and your career dreams to life!",
+          "text": "AutoCAD for \n<br>Mechanical Engineers&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-h\" data-toolbar=\"-mbrBtnMove\">MAKE AN ENQUIRY</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1i",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ec1a3b"
+            },
+            ".mbr-section-text": {
+              "color": "#28324e",
+              "font-size": "32px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "inverse": false,
+            "imageSize": "58",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extMsg-box1_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "bgText": "",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#28324e",
+            "bgTextSize": "50",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/fotolia-29508571-subscription-xl-1400x937.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "",
+          "text": "<span style=\"font-style: normal;\">AutoCAD software helps mechanical engineers excel in their jobs by helping them create preliminary designs and spot flaws before production, saving time and resources. It can provide a graphic simulation of the machine prototype and show it in action. This will enable engineers to make the necessary tweaks before getting into production. Mechanical engineers can also simulate various environments and pressure points on a prototype to test how the product will function in high-stress conditions.\n<br>\n<br>Stay competitive. Get ahead in your Mech Engineering career with AutoCAD skills. &nbsp;</span><br>",
+          "buttons": " <a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"index.html#form1-h\">APPLY NOW</a> ",
+          "bgTextP": "ANIMATED TEXT BACKGROUND",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader12",
+          "_anchor": "extHeader12-3",
+          "_styles": {
+            "P": {
+              "font-size": "16px",
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "text-align": "right"
+            },
+            "SPAN": {
+              "font-size": "18px",
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#28324e",
+              "font-size": "46px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#28324e",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\">Mechanical CADD Programs</span>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-y"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-2-4-393x262.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-2-6-393x262.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-2-2-393x262.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Master Diploma in Product Design and Analysis",
+          "subtitle1": "<span style=\"font-style: normal;\">Duration: xxx hours</span>",
+          "caption1": "This course takes students through the product lifecycle – from conceptualization to execution. It focuses on transforming engineering ideas into product design using CAD models and CAE tools. ",
+          "title2": "Professional in Product Design and Analysis",
+          "subtitle2": "<span style=\"font-style: normal;\">Duration: xxx hours</span>",
+          "caption2": "The course provides students complete understanding of drafting, modellingand analysis tools used in Mechanical, Automotive, Aerospace, and other industries.",
+          "title3": "Professional in Product Design",
+          "subtitle3": "<span style=\"font-style: normal;\">Duration: xxx hours</span>",
+          "caption3": "The courses provides students theoretical and practical knowledge in the application of CAD software in the various stages of product development.",
+          "title4": "Diploma in Product Design",
+          "subtitle4": "<span style=\"font-style: normal;\">Duration: xxx hours</span>",
+          "caption4": "The diploma program in product design and analysis equips the participants with the tools required to carry out tasks with CAD software in the stages of product development and execution.",
+          "title5": "Diploma in Product Design and Analysis",
+          "subtitle5": "<span style=\"font-style: normal;\">Duration: xxx hours</span>",
+          "caption5": "The diploma program focuses on the aspects of product development that are dependent on CAD software. Students learn software tools and concepts related to product design.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-h\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">APPLY NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#form1-h\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">APPLY NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-h\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">APPLY NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-b",
+          "_styles": {
+            "H5": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "16px"
+            },
+            "SPAN": {
+              "font-size": "16px"
+            },
+            "H4": {
+              "color": "#28324e"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-2-5-393x262.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-2-3-393x262.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-2-1-600x400.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Diploma in Product Design",
+          "subtitle1": "<span style=\"font-style: normal;\">Duration: xxx hours</span>",
+          "caption1": "This course takes students through the product lifecycle – from conceptualization to execution. It focuses on transforming engineering ideas into product design using CAD models and CAE tools. ",
+          "title2": "Diploma in Product Design and Analysis",
+          "subtitle2": "<span style=\"font-style: normal;\">Duration: xxx hours</span>",
+          "caption2": "The course provides students complete understanding of drafting, modellingand analysis tools used in Mechanical, Automotive, Aerospace, and other industries.",
+          "title3": "Professional in Product Design",
+          "subtitle3": "<span style=\"font-style: normal;\">Duration: xxx hours</span>",
+          "caption3": "The courses provides students theoretical and practical knowledge in the application of CAD software in the various stages of product development.",
+          "title4": "Diploma in Product Design",
+          "subtitle4": "<span style=\"font-style: normal;\">Duration: xxx hours</span>",
+          "caption4": "The diploma program in product design and analysis equips the participants with the tools required to carry out tasks with CAD software in the stages of product development and execution.",
+          "title5": "Diploma in Product Design and Analysis",
+          "subtitle5": "<span style=\"font-style: normal;\">Duration: xxx hours</span>",
+          "caption5": "The diploma program focuses on the aspects of product development that are dependent on CAD software. Students learn software tools and concepts related to product design.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-h\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">APPLY NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#form1-h\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">APPLY NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H5": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "16px"
+            },
+            "SPAN": {
+              "font-size": "16px"
+            },
+            "H4": {
+              "color": "#28324e"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "features3-v"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#28324e",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\">Individual Programs</span>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1a"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#efefef"
+          },
+          "text1": "<p>3D Printing\n</p><p>3ds Max\n</p><p>5D BIM using Navisworks\n</p><p>ACADD V2020\n</p><p>ANSYS Fluent\n</p><p>ANSYS Workbench\n</p><p>AutoCAD Mechanical\n</p><p>AutoCAD 3D\n</p><p>AutoCAD for Architects</p><p>\n</p><p>AutoCAD Civil 3D\r</p><p>AutoCAD Electrical\r</p>",
+          "text2": "<p><span style=\"font-size: 1.07rem;\">AutoCAD for Electronics Engineer</span><br></p><p>Autodesk Inventor\n</p><p>CATIA\n</p><p>CATIA Kinematics\n</p><p>Geometric Dimensioning &amp; Tolerancing\n</p><p>HVAC\n</p><p>MicroStation</p><p>\n</p><p>MX ROAD\n</p><p>NX Nastran\n</p><p>Non-Destructive Testing (QA/QC)</p>",
+          "text3": "<p><span style=\"font-size: 1.07rem;\">NX CAD</span><br></p><p>Prosteel\n</p><p>Reverse Engineering\n</p><p>Revit Architecture\n</p><p>Revit MEP\n</p><p>SketchUp\n</p><p>SolidWorks\n</p><p>SolidWorks Motion\n</p><p>STAAD.Pro</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-18"
+        },
+        {
+          "_styles": {
+            ".feature-title, .description": {
+              "color": "#232323"
+            },
+            ".feature-subtitle": {
+              "color": "#8c8c8c"
+            },
+            ".mbr-section-title": {
+              "color": "#28324e",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media": {
+            "image": {
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/89671922-xxl-6000x4000.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "book-open",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ec1a3b"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#ec1a3b"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "contact-book2",
+              "family": "icon54",
+              "active": true,
+              "size": 0,
+              "color": "#ec1a3b"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "graduation-hat",
+              "family": "icon54-v3",
+              "active": true,
+              "size": 0,
+              "color": "#ec1a3b"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">CADD Centre Advantage</span>",
+          "subtitle": "With over 3 decades in the business, CADD Centre understands your world and your needs like no one else does.",
+          "feature_title1": "<span style=\"font-weight: normal;\">Reference Guides</span>",
+          "feature_subtitle1": "Meeting the unique needs of students",
+          "feature_text1": "CADD Centre reference guides are of world class standards and cater to the unique needs to students of all levels",
+          "feature_title2": "<span style=\"font-weight: normal;\">Loyalty Programs</span>",
+          "feature_subtitle2": "Regular industry-institution interaction",
+          "feature_text2": "To keep the industry-institution interaction strong, CADD Centre holds seminars and interactive sessions to expose students to real world conditions.",
+          "feature_title3": "Translation ready",
+          "feature_subtitle3": "Find a common language with anyone",
+          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title4": "<span style=\"font-weight: normal;\">Curriculum Development</span>",
+          "feature_subtitle4": "Regular updates to meet industry requirements",
+          "feature_text4": "CADD Centre has a dedicated curriculum and product development team who develop and upgrade regularly to keep pace with industry requirements.",
+          "feature_title5": "<span style=\"font-weight: normal;\">Scholarship Programs</span>",
+          "feature_subtitle5": "Pan India scholarship program",
+          "feature_text5": "CADD Quest is an annual scholarship exam conducted by CADD Centre which recognise and reward scholarships to meritorious students",
+          "feature_title6": "Awesome parallax",
+          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
+          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures8",
+          "_anchor": "extFeatures8-f"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "inverse": false,
+            "elements": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures2_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1,
+            "showIcons": true,
+            "iconsColor": "#333333"
+          },
+          "title": "<span style=\"font-weight: normal;\">Student Benefits</span>",
+          "title1": "Internationally recognized certificates.",
+          "title2": "Industry specific CAD skills",
+          "title3": "Placement Assistance",
+          "title4": "Qualified tutors",
+          "text1": "CADD Centre certifications are globally valid and accepted",
+          "text2": "CADD Centre empowers you with specific skills that employers seek<br>",
+          "text3": "CADD Centre offers placement assistance to all students who complete their courses ",
+          "text4": "Our experienced and highly qualified tutors provide an excellent learning environment ",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary btn-block\">CONTACT US</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/shutterstock-144368215-1-1025x1668.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "bookmark",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0,
+              "color": "#ec1a3b"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "cad-2",
+              "family": "icon54-v4",
+              "active": true,
+              "size": 0,
+              "color": "#ec1a3b"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "search-job",
+              "family": "icon54",
+              "active": true,
+              "size": 0,
+              "color": "#ec1a3b"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "teacher",
+              "family": "iconsMind",
+              "active": true,
+              "size": 0,
+              "color": "#ec1a3b"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures2",
+          "_anchor": "extFeatures2-g",
+          "_styles": {
+            "H2": {
+              "color": "#28324e",
+              "font-size": "46px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "autoplay": true,
+            "timeout": "3",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showBullets": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/flight-mountains-sky-flying.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "slides": [
+              {
+                "active": true,
+                "text": "<p><span style=\"font-style: normal;\">CADD Centre aims at enhancing knowledge, skills, and abilities. I extend my gratitude towards the placement coordinator in particular for the dedication and coordination. My heartfelt thanks to the team and PWW.</span></p>",
+                "authorName": "Govindha Seenivasan&nbsp;",
+                "authorBio": "CADD Centre Madurai, K.K. Nagar, Tamil Nadu",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/student-male-150x160.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+                "authorName": "Abanoub S.",
+                "authorBio": "User",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+                "authorName": "Suffian A.",
+                "authorBio": "User",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true
+                  }
+                }
+              }
+            ]
+          },
+          "title": "<span style=\"font-weight: normal;\">Students Experience</span>",
+          "subtitle": "<span style=\"font-style: normal;\">Shape your future web project with sharp design and refine coded functions.</span>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTestimonials1",
+          "_anchor": "extTestimonials1-k",
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            },
+            ".mbr-section-title": {
+              "color": "#28324e"
+            },
+            ".card-block P": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": "2",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/5243-cadd-landing-page-3-199x125.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/5243-cadd-landing-page-5-198x125.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/5243-cadd-landing-page-7-198x125.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/5243-cadd-landing-page-9-199x125.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Asia's biggest",
+          "subtitle1": "<span style=\"font-style: normal;\">network of CAD training centres</span>",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Internationally",
+          "subtitle2": "<span style=\"font-style: normal;\">recognized certificate</span>",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Globally",
+          "subtitle3": "<span style=\"font-style: normal;\">acclaimed course material</span>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Industry specific",
+          "subtitle4": "<span style=\"font-style: normal;\">curriculum</span>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-4",
+          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" data-rv-view=\"13\" style=\"background-color: rgb(255, 255, 255);\">\n\n    \n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n              <div class=\"card cart-block\">\n                  <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/5243-cadd-landing-page-3-199x125.png\" class=\"card-img-top\"></div>\n                  <div class=\"card-block\">\n                    <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"4\">Asia's biggest</h4>\n                    <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"5\"><span style=\"font-style: normal;\">network of CAD training centres</span></h5>\n                    \n                    \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/5243-cadd-landing-page-5-198x125.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"6\">Internationally</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"7\"><span style=\"font-style: normal;\">recognized certificate</span></h5>\n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/5243-cadd-landing-page-7-198x125.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"8\">Globally</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"9\"><span style=\"font-style: normal;\">acclaimed course material</span></h5>\n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/5243-cadd-landing-page-9-199x125.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"10\">Industry specific</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"11\"><span style=\"font-style: normal;\">curriculum</span></h5>\n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\nH5 {\n  font-family: 'Montserrat', sans-serif;\n}\nSPAN {\n  color: #5b5b5b;\n}\nH4 {\n  color: #5b5b5b;\n}\n",
+          "_customTemplate": true
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/rL143mYNHOs",
+              "aspectratio": "4:3",
+              "autoplay": "on",
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">CADD Centre - Skilling India&nbsp;</span>",
+          "text": "<p>India has the delightful distinction of having the highest youth population in the world. This means that we have potential workforce that can help take the nation to greater economic heights. However, where India’s youth lag behind are in skills that will make then job-ready. CADD Centre’s aim over the last 30 years has been to bridge this industry-academia skill gap. To offer courses that empower students with on-the-job skills and practical knowledge. In the last three decades we have nurtured over 1.5 million careers. And we will continue to effectively skill India in future too. </p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-6",
+          "_styles": {
+            "P": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-size": "18px"
+            },
+            "SPAN": {
+              "font-size": "36px",
+              "color": "#28324e"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            "SPAN": {
+              "color": "#ec1a3b"
+            }
+          },
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-counters1",
+              "name": "pictures",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-counters1",
+              "name": "mobile",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-counters1",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-counters1",
+              "name": "video",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-counters1",
+              "name": "edit",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-counters1",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title1": "Franchise Outlets",
+          "title2": "Years \nin Skill Development",
+          "title3": "Countries",
+          "title4": "Million Students Trained&nbsp;",
+          "subtitle1": "subtitle",
+          "subtitle2": "subtitle",
+          "subtitle3": "subtitle",
+          "subtitle4": "subtitle",
+          "number1": "1000",
+          "number2": "30",
+          "number3": "26",
+          "number4": "1.5",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extCounters1",
+          "_anchor": "extCounters1-c"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 2,
+            "paddingBottom": "0",
+            "showArrows": true,
+            "showBullets": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/flight-mountains-sky-flying.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "visibleSlides": "6",
+            "slides": [
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/icon-16-146x51.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/icon-18-117x51.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/icon-20-104x51.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/icon-22-134x51.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/icon-24-121x51.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/icon-26-1-134x51.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/icon-20-104x51.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                },
+                "image": "@PROJECT_PATH@/assets/images/icon-28-113x51.png",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/icon-20-104x51.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                },
+                "image": "@PROJECT_PATH@/assets/images/icon-30-70x51.png",
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "title": "<span style=\"font-weight: normal;\">Educational Partners</span>",
+          "subtitle": "\"Our clients\" carousel with adjustable number of visible clients.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTestimonials5",
+          "_anchor": "extTestimonials5-j",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28324e"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#c1c1c1",
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">Make an enquiry</span>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "form": {
+            "action": "fastwork@ideascape.in",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-h",
+          "_customHTML": "<section class=\"mbr-section form1 mbr-after-navbar\" data-rv-view=\"209\" style=\"background-color: rgb(40, 50, 78); padding-top: 80px; padding-bottom: 120px;\">\n    \n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 text-xs-center\">\n                    <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"21\"><span style=\"font-weight: normal;\">Make an enquiry</span></h3>\n                    <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"22\">Shape your future web project with sharp design and refine coded functions.</small>\n                </div>\n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section mbr-section-nopadding\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\" data-form-type=\"formoid\">\n\n\n                    <div data-form-alert=\"true\">\n                        <div hidden=\"\" data-form-alert-success=\"true\" class=\"alert alert-form alert-success text-xs-center\">Thanks for filling out form!</div>\n                    </div>\n\n\n                    <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"Make an enquiry\">\n\n                        <input type=\"hidden\" value=\"sV92cOgZjwgC9zvHJVHgmKN0GPVBp84vJQjElwylPf3+AogLHcq6OgqlG4URROZ/7m7rRRAER24Rvw+N4biSC4HsLlaadeB8t+vBbiD3ehuQB7cbz2g9kJE7QBAm2ShP\" data-form-email=\"true\">\n\n                        <div class=\"row row-sm-offset\">\n\n                            <div class=\"col-xs-12 col-md-4\">\n                                <div class=\"form-group\">\n                                    <label class=\"form-control-label\" for=\"form1-h-name\">Name<span class=\"form-asterisk\">*</span></label>\n                                    <input type=\"text\" class=\"form-control\" name=\"name\" required=\"\" data-form-field=\"Name\" id=\"form1-h-name\">\n                                </div>\n                            </div>\n\n                            <div class=\"col-xs-12 col-md-4\">\n                                <div class=\"form-group\">\n                                    <label class=\"form-control-label\" for=\"form1-h-email\">Email<span class=\"form-asterisk\">*</span></label>\n                                    <input type=\"email\" class=\"form-control\" name=\"email\" required=\"\" data-form-field=\"Email\" id=\"form1-h-email\">\n                                </div>\n                            </div>\n\n                            <div class=\"col-xs-12 col-md-4\">\n                                <div class=\"form-group\">\n                                    <label class=\"form-control-label\" for=\"form1-h-phone\">Phone</label>\n                                    <input type=\"tel\" class=\"form-control\" name=\"phone\" data-form-field=\"Phone\" id=\"form1-h-phone\">\n                                </div>\n                            </div>\n                            \n                             <div class=\"col-xs-12 col-md-4\">\n                                <div class=\"form-group\">\n                                \n                                    <label class=\"form-control-label\" for=\"form1-h-message\">Select course</label>\n                                    <select name=\"select\">\n                                      <option value=\"American\">Master Diploma in Product Design and Analysis</option>\n                                      <option value=\"Andean\">Professional in Product Design and Analysis</option>\n                                      <option value=\"Chilean\">Professional in Product Design</option>\n                                      <option value=\"Greater\">Diploma in Product Design</option>\n                                      <option value=\"James's\">Diploma in Product Design and Analysis</option>\n                                      \n                                    </select>\n                                </div>\n                            </div>\n\n                        </div>\n\n                        <div class=\"form-group\"></div>\n                        \n\n                        <div><button type=\"submit\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"23\">APPLY NOW</button></div>\n\n                    \n</form></div></div></div></div></section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".form-control-label {\n  color: #c1c1c1;\n}\n.mbr-section-title {\n  color: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_styles": {
+            ".form-control-label": {
+              "color": "#c1c1c1"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/v5-1-128x32.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Corporate Office</strong><br>No. 91, Dr. Radhakrishnan Salai,\n<br>8th Floor, GEE GEE Crystal,\n<br>Office No. 8C &amp; 8D, Mylapore,\n<br>Chennai 600 004.\n<br>India.&nbsp;<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone:&nbsp;(91 44) 4596 6100<br>\nFaE-mail: info@caddcentre.com",
+          "text3": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-size": "16px",
+              "color": "#5b5b5b"
+            }
+          },
+          "_anchor": "contacts1-10"
+        }
+      ]
+    }
+  }
+}
